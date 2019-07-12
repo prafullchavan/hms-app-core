@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Prafull\\Repo\\lexis-hms\\lexis-hms-core\\lexis-hms-entity\\lexis.hms.entity.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

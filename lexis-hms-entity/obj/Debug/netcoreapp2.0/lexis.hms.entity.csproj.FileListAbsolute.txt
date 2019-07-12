@@ -1,0 +1,9 @@
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\bin\Debug\netcoreapp2.0\lexis.hms.entity.deps.json
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\bin\Debug\netcoreapp2.0\lexis.hms.entity.dll
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\bin\Debug\netcoreapp2.0\lexis.hms.entity.pdb
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\obj\Debug\netcoreapp2.0\lexis.hms.entity.csproj.CoreCompileInputs.cache
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\obj\Debug\netcoreapp2.0\lexis.hms.entity.AssemblyInfoInputs.cache
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\obj\Debug\netcoreapp2.0\lexis.hms.entity.AssemblyInfo.cs
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\obj\Debug\netcoreapp2.0\lexis.hms.entity.dll
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\obj\Debug\netcoreapp2.0\lexis.hms.entity.pdb
+D:\Prafull\Repo\lexis-hms\lexis-hms-core\lexis-hms-entity\obj\Debug\netcoreapp2.0\lexis.hms.entity.csprojAssemblyReference.cache
